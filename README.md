@@ -1,4 +1,4 @@
-# Lab 1 - git MAJONEZ
+# Projekt ALFA
 Witam w mojej kuchni
 mam tu towar z wyższej półki
 ## Autor Bartosz Mikołajczyk
