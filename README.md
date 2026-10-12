@@ -1,4 +1,4 @@
-# Projekt BETA
+# Projekt ALFA-BETA
 Witam w mojej kuchni
 mam tu towar z wyższej półki
 ## Autor Bartosz Mikołajczyk
